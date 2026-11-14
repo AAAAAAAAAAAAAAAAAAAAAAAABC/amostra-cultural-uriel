@@ -1,2 +1,1 @@
-# amostra-cultural-uriel
-amostra cultural-uriel
+Este código define uma função principal chamada main que imprime a mensagem "Segundo repositório no GitHub." na tela. A estrutura final if name == "main": funciona como uma proteção para garantir que a função main() só seja executada quando você rodar este arquivo diretamente. Essa é uma boa prática em Python porque mantém o programa organizado e evita que o código rode sozinho caso este arquivo seja importado dentro de outro projeto no futuro.
